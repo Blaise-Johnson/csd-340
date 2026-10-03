@@ -1,0 +1,40 @@
+/*Blaise Johnson*/
+/*Assignment 4.2*/
+/*October 3, 2026 */
+
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align:center;
+}
+
+
+figure{
+    text-align:center;
+}
+
+#image-gallery{
+    margin-top:10%;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+figcaption{
+    font-style:italic;
+    font-size:.75em;
+}
+
+img{
+    width:200px;
+    height:300px;
+}
+
+#landing{
+    width:100%;
+    margin-bottom:20px;
+    text-align:right;
+}
